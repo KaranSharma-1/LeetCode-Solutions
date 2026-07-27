@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

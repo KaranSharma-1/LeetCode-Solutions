@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0796-rotate-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [3110-score-of-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Bucket Sort

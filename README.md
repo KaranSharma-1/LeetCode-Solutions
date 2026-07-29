@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3765-complete-prime-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3765-complete-prime-number) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0796-rotate-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->

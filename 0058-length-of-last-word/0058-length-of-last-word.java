@@ -6,9 +6,7 @@ class Solution {
             if(s.charAt(i) == ' '){
                 break;
             }
-            else{
-                count++;
-            }
+            count++;
         }
         return count;
     }

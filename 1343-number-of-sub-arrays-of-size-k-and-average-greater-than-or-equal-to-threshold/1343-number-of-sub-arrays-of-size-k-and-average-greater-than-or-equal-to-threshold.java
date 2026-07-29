@@ -27,7 +27,7 @@ class Solution {
             sum += arr[m];
         }
         while (j < arr.length) {
-            if (sum / k >= threshold) {
+            if (sum >= threshold * k) {
                 count++;
             }
             if (j + 1 < arr.length) {

@@ -7,14 +7,10 @@ class Solution {
         int j = people.length - 1;
         while(i <= j){
             if(people[i] + people[j] <= limit){
-                count++;
                 i++;
-                j--;
             }
-            else if(people[i] + people[j] > limit){
                 count++;
                 j--;
-            }
         }
         return count;
     }

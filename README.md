@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [3794-reverse-string-prefix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3110-score-of-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Bucket Sort
 |  |
 | ------- |

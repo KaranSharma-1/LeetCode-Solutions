@@ -1,16 +1,37 @@
+// class Solution {
+//     public int minimumPushes(String word) {
+//         int[]freq = new int[26];
+//         int ans = 0;
+//         char[] arr = word.toCharArray();
+//         for(int i = 0; i < arr.length;i++){
+//             freq[arr[i] - 'a']++;
+//         }
+//         Arrays.sort(freq);
+//         for(int i = 25;i >= 0;i--){
+//             if(freq[i] == 0)break;
+//             int rank = 25 - i;
+//             ans = ans + (((rank/8) + 1)*freq[i]);
+//         }
+//         return ans;
+//     }
+// }
 class Solution {
     public int minimumPushes(String word) {
-        int[]freq = new int[26];
-        int ans = 0;
-        char[] arr = word.toCharArray();
-        for(int i = 0; i < arr.length;i++){
-            freq[arr[i] - 'a']++;
+        int[] freq = new int[26];
+        for (char c : word.toCharArray()) {
+            freq[c - 'a']++;
         }
+
         Arrays.sort(freq);
-        for(int i = 25;i >= 0;i--){
-            if(freq[i] == 0)break;
-            ans = ans + ((((25 - i)/8) + 1)*freq[i]);
+
+        int totalPushes = 0;
+        int rank = 0;
+
+        for (int i = 25; i >= 0 && freq[i] > 0; i--, rank++) {
+            int pushCost = (rank / 8) + 1;
+            totalPushes += pushCost * freq[i];
         }
-        return ans;
+
+        return totalPushes;
     }
 }

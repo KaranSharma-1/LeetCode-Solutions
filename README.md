@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3838-weighted-word-mapping](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3838-weighted-word-mapping](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Bucket Sort
 |  |
 | ------- |

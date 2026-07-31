@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0796-rotate-string) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## String Matching
 |  |

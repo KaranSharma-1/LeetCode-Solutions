@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0164-maximum-gap](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0344-reverse-string) |

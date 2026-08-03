@@ -12,7 +12,8 @@ class Solution {
         for(int i = 0;i < nums.length - 1;i++){
             long ans = 0;
       for(int j = i+1;j < nums.length;j++){
-          ans = (long)(nums[i]/gcd(nums[i],nums[j]))*(nums[j]/gcd(nums[i],nums[j]));
+        int g = gcd(nums[i],nums[j]);
+        ans = (long)(nums[i]/g)*(nums[j]/g);
         max = Math.max(ans,max);
       }
     }

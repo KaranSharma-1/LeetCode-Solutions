@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0283-move-zeroes) |

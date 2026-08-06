@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [2278-percentage-of-letter-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

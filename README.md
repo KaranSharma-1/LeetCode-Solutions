@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [2278-percentage-of-letter-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
 |  |

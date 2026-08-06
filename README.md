@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0595-big-countries](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0595-big-countries) |
+| [0620-not-boring-movies](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Queue

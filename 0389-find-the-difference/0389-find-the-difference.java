@@ -1,17 +1,29 @@
+// class Solution {
+//     public char findTheDifference(String s, String t) {
+//         int[]hash = new int[26];
+//         for(int i = 0; i < t.length();i++){
+//             hash[t.charAt(i) - 'a']++;
+//         }
+//         for(int i = 0; i < s.length();i++){
+//             hash[s.charAt(i) - 'a']--;
+//         }
+//         for(int i = 0; i < t.length();i++){
+//             if(hash[t.charAt(i) - 'a'] > 0){
+//                 return t.charAt(i);
+//             }
+//         }
+//         return '0';
+//     }
+// }
 class Solution {
     public char findTheDifference(String s, String t) {
-        int[]hash = new int[26];
+        int xor = 0;
         for(int i = 0; i < t.length();i++){
-            hash[t.charAt(i) - 'a']++;
+            xor = xor ^ (int)t.charAt(i);
         }
         for(int i = 0; i < s.length();i++){
-            hash[s.charAt(i) - 'a']--;
+            xor = xor ^ (int)s.charAt(i);
         }
-        for(int i = 0; i < t.length();i++){
-            if(hash[t.charAt(i) - 'a'] > 0){
-                return t.charAt(i);
-            }
-        }
-        return '0';
+        return (char)xor;
     }
 }

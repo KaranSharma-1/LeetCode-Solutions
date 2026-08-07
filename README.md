@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [3838-weighted-word-mapping](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [2278-percentage-of-letter-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |

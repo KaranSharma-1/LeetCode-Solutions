@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Recursion
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |

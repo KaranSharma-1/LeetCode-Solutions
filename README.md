@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Recursion
@@ -268,4 +270,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

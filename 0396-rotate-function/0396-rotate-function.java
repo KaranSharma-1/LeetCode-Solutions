@@ -39,7 +39,7 @@ class Solution {
         // Calculate F(1), F(2), ...
         for (int i = n - 1; i > 0; i--) {
             current = current + sum - (long) n * nums[i];
-            max = Math.max(max, current);
+            if(current > max) max = current;
         }
 
         return (int) max;

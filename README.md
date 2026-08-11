@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |

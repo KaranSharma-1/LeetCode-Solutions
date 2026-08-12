@@ -6,10 +6,8 @@ class Solution {
         int max = 0;
         while(j < nums.length){
             count.put(nums[j],count.getOrDefault(nums[j],0) + 1);
-            int freq = count.get(nums[j]);
-            while(freq > k){
+            while(count.get(nums[j]) > k){
                 count.put(nums[i],count.get(nums[i]) - 1);
-                freq = count.get(nums[j]);
                 i++;
             }
             max = Math.max(j-i+1,max);

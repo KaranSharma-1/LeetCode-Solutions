@@ -20,16 +20,22 @@
 //     }
 // }
 class Solution {
+
     public int[] arrayRankTransform(int[] arr) {
+
         int[] sorted = arr.clone();
+
         Arrays.sort(sorted);
 
-        HashMap<Integer, Integer> rank = new HashMap<>();
-        int r = 1;
+        Map<Integer, Integer> rank = new HashMap<>();
+
+        int currentRank = 1;
 
         for (int num : sorted) {
+
             if (!rank.containsKey(num)) {
-                rank.put(num, r++);
+                rank.put(num, currentRank);
+                currentRank++;
             }
         }
 

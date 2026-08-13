@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

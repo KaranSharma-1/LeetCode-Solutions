@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-earliest-time-to-finish-one-task](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3838-weighted-word-mapping](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
+| [3912-valid-elements-in-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |

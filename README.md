@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |

@@ -6,7 +6,9 @@ class Solution {
             for(int j = 0; j < accounts[i].length;j++){
                 sum+= accounts[i][j];
             }
-            max = Math.max(max,sum);
+            if(sum > max){
+                max = sum;
+            }
         }
         return max;
     }

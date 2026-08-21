@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3151-special-array-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3151-special-array-i) |
 | [3668-restore-finishing-order](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3838-weighted-word-mapping](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |

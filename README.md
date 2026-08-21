@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3074-apple-redistribution-into-boxes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3151-special-array-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3151-special-array-i) |
 | [3668-restore-finishing-order](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting
 |  |
 | ------- |

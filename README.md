@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3099-harshad-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3765-complete-prime-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |

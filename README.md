@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -248,12 +249,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3765-complete-prime-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3765-complete-prime-number) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [3765-complete-prime-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3765-complete-prime-number) |
 ## String
 |  |
@@ -385,4 +388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->

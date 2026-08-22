@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |

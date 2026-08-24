@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2523-closest-prime-numbers-in-range](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 | [3765-complete-prime-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3765-complete-prime-number) |
 ## String
 |  |
@@ -405,4 +407,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1952-three-divisors) |
+| [2523-closest-prime-numbers-in-range](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->

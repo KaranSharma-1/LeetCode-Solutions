@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3028-ant-on-the-boundary](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3074-apple-redistribution-into-boxes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3151-special-array-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3151-special-array-i) |
 | [3668-restore-finishing-order](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3028-ant-on-the-boundary](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3028-ant-on-the-boundary) |
 ## Two Pointers
 |  |
 | ------- |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2810-faulty-keyboard](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
+| [3028-ant-on-the-boundary](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3028-ant-on-the-boundary) |
 | [3174-clear-digits](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |

@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2810-faulty-keyboard](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2278-percentage-of-letter-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2810-faulty-keyboard](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

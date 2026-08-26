@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3794-reverse-string-prefix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2278-percentage-of-letter-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2810-faulty-keyboard](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2810-faulty-keyboard) |

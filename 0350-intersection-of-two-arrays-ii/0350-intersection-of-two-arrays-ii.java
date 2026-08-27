@@ -28,11 +28,9 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
     int[] freq = new int[1001];
-
         for (int num : nums1) {
             freq[num]++;
         }
-
         int[] temp = new int[Math.min(nums1.length, nums2.length)];
         int k = 0;
         for (int num : nums2) {
@@ -41,12 +39,6 @@ class Solution {
                 freq[num]--;
             }
         }
-
-        int[] ans = new int[k];
-        for (int i = 0; i < k; i++) {
-            ans[i] = temp[i];
-        }
-
-        return ans;    
+        return Arrays.copyOf(temp,k);   
     }
 }

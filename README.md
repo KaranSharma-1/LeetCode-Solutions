@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String Matching
 |  |

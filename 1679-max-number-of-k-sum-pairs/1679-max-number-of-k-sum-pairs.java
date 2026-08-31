@@ -1,46 +1,21 @@
-//hashmap
-// class Solution {
-//     public int maxOperations(int[] nums, int k) {
-//         HashMap<Integer,Integer> map = new HashMap<>();
-//         int count = 0;
-//         for(int i = 0; i< nums.length;i++){
-//             if(map.containsKey(k - nums[i])){
-//                 map.put(k - nums[i],map.getOrDefault(k - nums[i], 0)-1);
-//                 if(map.get(k - nums[i]) == 0){
-//                     map.remove(k - nums[i]);
-//                 }
-//                 count++;
-//             }
-//             else{
-//             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-//             }
-//         }
-//         return count;
-//     }
-// }
 //cleaner
 // class Solution {
 //     public int maxOperations(int[] nums, int k) {
 //         HashMap<Integer, Integer> map = new HashMap<>();
 //         int count = 0;
-
 //         for (int num : nums) {
 //             int complement = k - num;
-
 //             Integer freq = map.get(complement);
-
 //             if (freq != null) {
 //                 if (freq == 1)
 //                     map.remove(complement);
 //                 else
 //                     map.put(complement, freq - 1);
-
 //                 count++;
 //             } else {
 //                 map.put(num, map.getOrDefault(num, 0) + 1);
 //             }
 //         }
-
 //         return count;
 //     }
 // }

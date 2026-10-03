@@ -1,37 +1,35 @@
 class Solution {
+    private int search(int[] nums,int target,boolean startIndex){
+        int start = 0;
+        int ans = -1;
+        int end = nums.length - 1;
+        while(start <= end){
+            int mid = start + (end - start) /2;
+            if(nums[mid] < target){
+                start = mid +1;
+            }
+            else if(nums[mid] > target){
+                end = mid - 1;
+            }
+            else{
+                ans = mid;
+                if(startIndex){
+                    end = mid -1;
+                }
+                else{
+                    start = mid + 1;
+                }
+            }
+           
+        }
+         return ans;
+    }
     public int[] searchRange(int[] nums, int target) {
-        int i = 0;
-        int j = nums.length - 1;
-        int first = -1;
-        int last = -1;
-        while(i <= j){
-            int mid = i+(j-i)/2;
-            if(nums[mid] < target){
-                i = mid +1;
-            }
-            else if(nums[mid] > target){
-                j = mid - 1;
-            }
-            else{
-                first = mid;
-                j  = mid - 1;
-            }
+        int[] ans = {-1,-1};
+        ans[0] = search(nums,target,true);
+        if(ans[0] != -1){
+            ans[1] = search(nums,target,false);
         }
-        i = 0;
-        j = nums.length - 1;
-        while(i <= j){
-            int mid = i+(j-i)/2;
-            if(nums[mid] < target){
-                i = mid +1;
-            }
-            else if(nums[mid] > target){
-                j = mid - 1;
-            }
-            else{
-                last = mid;
-                i  = mid + 1;
-            }
-        }
-        return new int[]{first,last};
+        return ans;
     }
 }

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1089-duplicate-zeros](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1095-find-in-mountain-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -526,4 +528,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->

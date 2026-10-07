@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0645-set-mismatch](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1603-design-parking-system](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |

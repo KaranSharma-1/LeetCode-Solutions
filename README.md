@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/0917-reverse-only-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1360-number-of-days-between-two-dates](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1360-number-of-days-between-two-dates) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |

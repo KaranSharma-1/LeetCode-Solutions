@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/KaranSharma-1/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
